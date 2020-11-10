@@ -1,2 +1,2 @@
 language = "python3"
-run = "python basics/block_c_labs/plots_simple.py"
+run = "python labs/block_c_labs/squares.py"
