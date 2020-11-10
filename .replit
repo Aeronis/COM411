@@ -1,2 +1,2 @@
 language = "python3"
-run = "python Labs/temperature_chart.py"
+run = "python basics/block_c_labs/plots_simple.py"
